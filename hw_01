@@ -1,0 +1,19 @@
+
+</head>
+<body>
+
+    <h1>About Me</h1>
+
+    <p><strong>Name:</strong> Iftiar</p>
+    <p><strong>Nationality:</strong> Bangladeshi</p>
+    <p><strong>Education:</strong> Bachelor of International Engineering and Science</p>
+    <p><strong>University:</strong> JBNU </p>
+    <p><strong>Favourite Sports:</strong></p>
+    <ul>
+        <li>Cricket</li>
+        <li>Football</li>
+        <li>Baseball</li>
+    </ul>
+
+</body>
+</html>
